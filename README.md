@@ -1,4 +1,5 @@
 # TicketApp - Vue.js Implementation
+Live link: https://ticket-vueapp-production.up.railway.app/
 
 This is the Vue.js implementation of the Multi-Framework Ticket Web App, part of the Frontend Stage 2 task. This version delivers a seamless user experience for ticket management, including a landing page, authentication, a dashboard, and full CRUD operations for tickets, all while maintaining a consistent layout and design language as specified in the task.
 
